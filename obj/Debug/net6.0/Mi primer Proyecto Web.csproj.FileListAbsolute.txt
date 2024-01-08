@@ -1,0 +1,30 @@
+C:\Users\Gapaz\source\repos\Mi primer Proyecto Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Gapaz\source\repos\Mi primer Proyecto Web\bin\Debug\net6.0\appsettings.json
+C:\Users\Gapaz\source\repos\Mi primer Proyecto Web\bin\Debug\net6.0\Mi primer Proyecto Web.staticwebassets.runtime.json
+C:\Users\Gapaz\source\repos\Mi primer Proyecto Web\bin\Debug\net6.0\Mi primer Proyecto Web.exe
+C:\Users\Gapaz\source\repos\Mi primer Proyecto Web\bin\Debug\net6.0\Mi primer Proyecto Web.deps.json
+C:\Users\Gapaz\source\repos\Mi primer Proyecto Web\bin\Debug\net6.0\Mi primer Proyecto Web.runtimeconfig.json
+C:\Users\Gapaz\source\repos\Mi primer Proyecto Web\bin\Debug\net6.0\Mi primer Proyecto Web.dll
+C:\Users\Gapaz\source\repos\Mi primer Proyecto Web\bin\Debug\net6.0\Mi primer Proyecto Web.pdb
+C:\Users\Gapaz\source\repos\Mi primer Proyecto Web\obj\Debug\net6.0\Mi primer Proyecto Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gapaz\source\repos\Mi primer Proyecto Web\obj\Debug\net6.0\Mi primer Proyecto Web.AssemblyInfoInputs.cache
+C:\Users\Gapaz\source\repos\Mi primer Proyecto Web\obj\Debug\net6.0\Mi primer Proyecto Web.AssemblyInfo.cs
+C:\Users\Gapaz\source\repos\Mi primer Proyecto Web\obj\Debug\net6.0\Mi primer Proyecto Web.csproj.CoreCompileInputs.cache
+C:\Users\Gapaz\source\repos\Mi primer Proyecto Web\obj\Debug\net6.0\Mi primer Proyecto Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gapaz\source\repos\Mi primer Proyecto Web\obj\Debug\net6.0\Mi primer Proyecto Web.RazorAssemblyInfo.cache
+C:\Users\Gapaz\source\repos\Mi primer Proyecto Web\obj\Debug\net6.0\Mi primer Proyecto Web.RazorAssemblyInfo.cs
+C:\Users\Gapaz\source\repos\Mi primer Proyecto Web\obj\Debug\net6.0\staticwebassets\msbuild.Mi primer Proyecto Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Gapaz\source\repos\Mi primer Proyecto Web\obj\Debug\net6.0\staticwebassets\msbuild.build.Mi primer Proyecto Web.props
+C:\Users\Gapaz\source\repos\Mi primer Proyecto Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Mi primer Proyecto Web.props
+C:\Users\Gapaz\source\repos\Mi primer Proyecto Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Mi primer Proyecto Web.props
+C:\Users\Gapaz\source\repos\Mi primer Proyecto Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Gapaz\source\repos\Mi primer Proyecto Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Gapaz\source\repos\Mi primer Proyecto Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Gapaz\source\repos\Mi primer Proyecto Web\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Gapaz\source\repos\Mi primer Proyecto Web\obj\Debug\net6.0\scopedcss\bundle\Mi primer Proyecto Web.styles.css
+C:\Users\Gapaz\source\repos\Mi primer Proyecto Web\obj\Debug\net6.0\scopedcss\projectbundle\Mi primer Proyecto Web.bundle.scp.css
+C:\Users\Gapaz\source\repos\Mi primer Proyecto Web\obj\Debug\net6.0\Mi primer Proyecto Web.dll
+C:\Users\Gapaz\source\repos\Mi primer Proyecto Web\obj\Debug\net6.0\refint\Mi primer Proyecto Web.dll
+C:\Users\Gapaz\source\repos\Mi primer Proyecto Web\obj\Debug\net6.0\Mi primer Proyecto Web.pdb
+C:\Users\Gapaz\source\repos\Mi primer Proyecto Web\obj\Debug\net6.0\Mi primer Proyecto Web.genruntimeconfig.cache
+C:\Users\Gapaz\source\repos\Mi primer Proyecto Web\obj\Debug\net6.0\ref\Mi primer Proyecto Web.dll
